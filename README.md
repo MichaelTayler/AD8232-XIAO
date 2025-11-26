@@ -1,7 +1,7 @@
-AD8232 Electrocardiogram monitor using Seeeduino Xiao
+**AD8232 Electrocardiogram monitor using Seeeduino Xiao**
 
 
-Basic instructions for now: 
+Visuals can be found in *ECGdemo.pdf*. Basic instructions for now: 
 
 - Get hold of the hardware.  Not difficult to find via the usual shopping websites.
 - Solder the AD8232 module to the Xiao using a 0.1-inch male header strip
